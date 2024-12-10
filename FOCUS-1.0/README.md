@@ -21,8 +21,11 @@ _Note: the data has been anonymized_
 
 | File Name | Content |
 |-----------|---------|
-| focus_data_table.csv.gz | Full sample in CSV format |
-| focus_data_table.sql.gz | Full sample in SQL format |
+| focus_data_table.csv.gz    | Full sample in CSV format |
+| focus_data_table.sql.gz    | Full sample in SQL format |
+| focus_sample.csv           | 1,000 line sample in CSV format |
+| focus_sample_10000.csv     | 10,000 line sample in CSV format |
+| focus_sample_100000.csv.gz | 100,000 line sample in CSV format |
 
 
 ## Want to contribute
