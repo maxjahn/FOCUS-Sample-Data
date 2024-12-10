@@ -4,6 +4,9 @@
 
 This sample dataset is anonymized real world FOCUS data, made available for those needing to explore FOCUS data, demonstrate FOCUS tools and reports, and to learn from. Nothing beats your own real world data so go enable FOCUS datasets in your cloud platforms following the instructions made available by the cloud service providers see: [Getting Started with FOCUS™ Datasets](https://focus.finops.org/get-started/).
 
+More details of this dataset can be found in the [FinOps Foundation Insights Article](https://www.finops.org/insights/focus-sandbox/) and explored in the [FOCUS Sandbox](https://focus.finops.org/sandbox/).
+
+
 ## Data
 
 The sample dataset includes the following:
